@@ -1,6 +1,6 @@
 function convertToAdjList(adjMatrix)
 {
-    var adjArray = []
+    var adjArray = [];
 
     // For each vertex of the adjacency matrix...
     for(var i = 0; i < adjMatrix.length; i++)
@@ -19,6 +19,6 @@ function convertToAdjList(adjMatrix)
         // Push current vertex's vertexArr onto adjArray.
         adjArray.push(vertexArr);
     }
-    
+
     return adjArray;
 }
