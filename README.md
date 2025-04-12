@@ -40,7 +40,7 @@ I guessed the runtime complexity of .includes() from the docs at:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes  
 
-And trusted that this souces wouldn't lie to me about my guess of $O(n)$:  
+And trusted that this souces wouldn't lie to me about my guess of $O(n)$ being accurate:  
 
 https://medium.com/@inbasekaran18/understanding-time-complexity-of-array-methods-in-javascript-cc7bb30b3e9d  
 
