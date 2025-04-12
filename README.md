@@ -53,6 +53,8 @@ I certify that I have listed all sources used to complete this exercise, includi
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.  
 
+![Notes_250412_160913](https://github.com/user-attachments/assets/9a245dee-b563-4992-815c-2cf5b6ee7389)
+
 ## List to Matrix Runtime Analysis
 
 Much like the matrix to list algorithm, we have two nested loops performing $n$
