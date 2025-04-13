@@ -27,15 +27,3 @@ function convertToAdjMatrix(adjList)
 
     return adjMatrix;
 }
-
-// Test variety edges 4x4.
-var testList1 = [[1, 3], [2], [3], []];
-console.log(JSON.stringify(convertToAdjMatrix(testList1)));
-
-// Test no edges 3x3.
-var testList2 = [[], [], []];
-console.log(JSON.stringify(convertToAdjMatrix(testList2)));
-
-// Test all edge 3x3.
-var testList3 = [[0, 1, 2], [0, 1, 2], [0, 1, 2]];
-console.log(JSON.stringify(convertToAdjMatrix(testList3)));
