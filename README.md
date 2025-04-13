@@ -65,3 +65,5 @@ on both vertices and edges, and in instances where all vertices feature all
 edges, has a worst case time complexity of $\Theta(n^3)$ as each vertice may
 feature $n$ edges, causing the .includes(j) call to need to be made $n$ times as
 the adjacency list is converted to an adjacency matrix.  
+
+// Update to pass jslint.
